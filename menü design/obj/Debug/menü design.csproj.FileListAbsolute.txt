@@ -1,0 +1,13 @@
+c:\Users\Warexrd\source\repos\menü design\menü design\bin\Debug\menü design.exe.config
+c:\Users\Warexrd\source\repos\menü design\menü design\bin\Debug\menü design.exe
+c:\Users\Warexrd\source\repos\menü design\menü design\bin\Debug\menü design.pdb
+c:\Users\Warexrd\source\repos\menü design\menü design\bin\Debug\FontAwesome.Sharp.dll
+c:\Users\Warexrd\source\repos\menü design\menü design\obj\Debug\menü design.csprojAssemblyReference.cache
+c:\Users\Warexrd\source\repos\menü design\menü design\obj\Debug\menü_design.Form1.resources
+c:\Users\Warexrd\source\repos\menü design\menü design\obj\Debug\menü_design.Properties.Resources.resources
+c:\Users\Warexrd\source\repos\menü design\menü design\obj\Debug\menü design.csproj.GenerateResource.cache
+c:\Users\Warexrd\source\repos\menü design\menü design\obj\Debug\menü design.csproj.CoreCompileInputs.cache
+c:\Users\Warexrd\source\repos\menü design\menü design\obj\Debug\menü design.csproj.CopyComplete
+c:\Users\Warexrd\source\repos\menü design\menü design\obj\Debug\menü design.exe
+c:\Users\Warexrd\source\repos\menü design\menü design\obj\Debug\menü design.pdb
+c:\Users\Warexrd\source\repos\menü design\menü design\obj\Debug\menü_design.FormSetting.resources
